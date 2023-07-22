@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Introduction to Machine Learning",
+    "slug": "introduction-to-machine-learning",
+    "summary": "An overview of the basic concepts in machine learning.",
+    "body": "Machine learning is a subfield of artificial intelligence..."
+  },
+  {
+    "title": "Python Programming for Beginners",
+    "slug": "python-programming-for-beginners",
+    "summary": "A beginner's guide to learning Python programming.",
+    "body": "Python is a popular programming language..."
+  },
+  {
+    "title": "Web Development with HTML and CSS",
+    "slug": "web-development-with-html-and-css",
+    "summary": "Building websites using HTML and CSS.",
+    "body": "HTML and CSS are the fundamental building blocks..."
+  }
+]
