@@ -1,0 +1,10 @@
+# keys_values.yaml
+keys_values:
+  typ:
+    - page
+    - article
+    - block
+  area:
+    - nav
+    - product
+  title: []  # Empty list indicates any non-null value is acceptable
